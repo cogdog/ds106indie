@@ -1,6 +1,6 @@
 # DS106's Indie Waves of Blog Syndication, Daily Creates, & an Open Assignment Bank Are Yours to Rock With as Templated Wordpress Themes
 
-![](show/images/3albums.jpg "Three Albums)
+![](docs/show/images/3albums.jpg "Three Albums)
 
 A repo for the [Domains 2017](http://domains.reclaimhosting.com/) presentation by Alan Levine.
 
